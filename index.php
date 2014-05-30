@@ -13,7 +13,9 @@ and open the template in the editor.
         <?php
         // put your code here
         //asdadad
-        echo "ahoj"
+        //sdfsdf s
+        echo "ahoj";
+        echo "zdar";
         ?>
     </body>
 </html>
